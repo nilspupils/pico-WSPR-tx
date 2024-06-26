@@ -1,3 +1,6 @@
+This is just a personal edit with changed frequency to 15m band and my callsign and locator. 
+
+
 # pico-WSPR-tx
 WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator PLL DCO library as submodule.
 The GPS reference is used to compensate Pico's clock drift. GPS is also used to schedule WSPR transmissions.
