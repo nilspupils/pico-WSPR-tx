@@ -1,4 +1,4 @@
-This is just a personal edit with changed frequency to 15m band and my callsign and locator. 
+DO NOT USE! This is just a personal edit with changed frequency to 15m band and my callsign and locator. THIS IS HIGHLY EXPERIMENTAL AND NOT WORKING AT THE MOMENT! 
 
 
 # pico-WSPR-tx
